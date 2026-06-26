@@ -1,0 +1,21 @@
+version: 1
+
+repository:
+  name: "test_004"
+  full_name: "testveracode/test_004"
+  branch: "test_br"
+  commit_sha: "3bd38978a5628a5278767522688bfd2d5196ccce"
+
+business_application:
+  name: "test_new_004"
+  criticality: "HIGH"
+
+veracode:
+  profile_name: "test_new_004"
+  policy_name: "Sysco Very High and High Vulnerability Protect"
+  app_guid: "9fa2f120-a752-4378-ace4-3121fbb603b8"
+
+App sec platform:
+  managed: true
+  generated_by: "App sec platform - context-resolver"
+  generated_at: "2026-06-26T07:43:21.893Z"
